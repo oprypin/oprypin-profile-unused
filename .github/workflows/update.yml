@@ -1,0 +1,41 @@
+on:
+  push:
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/github-script@v5
+        with:
+          script: |
+            const fs = require('fs').promises;
+
+            let content = await fs.readFile('README.md', 'utf8');
+            const regex = /(\(https:\/\/github\.com\/([\w\-]+)\/([\w\-]+)\).+☆)[0-9.k]+\b/g;
+            content = await replaceAsync(content, regex, async (s, prefix, owner, repo) => {
+              console.log(s);
+              const {data} = await github.rest.repos.get({owner, repo});
+              let stars = data['stargazers_count'];
+              if (stars > 999) {
+                stars = Math.trunc(stars/100).toString().replace(/(.)$/, '.$1k');
+              }
+              s = prefix + stars;
+              console.log(s);
+              return s;
+            });
+            await fs.writeFile('README.md', content, 'utf8');
+
+            // https://stackoverflow.com/a/48032528
+            async function replaceAsync(str, regex, asyncFn) {
+              const promises = [];
+              str.replace(regex, (...args) => {
+                  promises.push(asyncFn(...args));
+              });
+              const data = await Promise.all(promises);
+              return str.replace(regex, () => data.shift());
+            }
+      - run: git diff --exit-code || git -c user.email='github-actions[bot]@users.noreply.github.com' -c user.name='github-actions[bot]' commit -a -m 'Update'
+      - run: git push
