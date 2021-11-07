@@ -9,12 +9,12 @@
 
 ### Plugins
 
-* [oprypin/markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆6
-* [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆33
-* [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆15
-* [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆10
-* [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆4
-* [oprypin/mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆6
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆33
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆15
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆10
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆4
+* [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 
 </td><td>
 
@@ -22,15 +22,15 @@
 
 ### Game development libraries
 
-* [oprypin/crsfml](https://github.com/oprypin/crsfml) ☆296
-* [oprypin/crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆34
-* [oprypin/crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆31
-* [oprypin/crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆9
+* [crsfml](https://github.com/oprypin/crsfml) ☆296
+* [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆34
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆31
+* [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆9
 
 ### Misc
 
-* [oprypin/retour](https://github.com/oprypin/retour) ☆0
-* [oprypin/spec-assert](https://github.com/oprypin/spec-assert) ☆2
+* [retour](https://github.com/oprypin/retour) ☆0
+* [spec-assert](https://github.com/oprypin/spec-assert) ☆2
   
 &nbsp;
 
@@ -38,18 +38,18 @@
 
 ## Gaming
 
-* [oprypin/sixcells](https://github.com/oprypin/sixcells) ☆54
-* [oprypin/game-bots](https://github.com/oprypin/game-bots) ☆5
+* [sixcells](https://github.com/oprypin/sixcells) ☆54
+* [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [oprypin/nightly.link](https://github.com/oprypin/nightly.link) ☆182
-* [oprypin/find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆11
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆182
+* [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆11
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆42
 
 ## Python
 
-* [oprypin/pytest-golden](https://github.com/oprypin/pytest-golden) ☆3
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆3
 
 </tr></table>
 
