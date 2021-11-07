@@ -1,52 +1,57 @@
 <table><tr><td>
 
-## [MkDocs](https://github.com/mkdocs/mkdocs)
-
-### Plugins
-
-* [oprypin/markdown-callouts](https://github.com/oprypin/markdown-callouts)
-* [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index)
-* [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav)
-* [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files)
-* [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir)
-* [oprypin/mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator)
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆13.1k</sup>
 
 ### API documentation
 
-* [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings)
-* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal)
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆525
+* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆19
+
+### Plugins
+
+* [oprypin/markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆6
+* [oprypin/mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆33
+* [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆15
+* [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆10
+* [oprypin/mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆4
+* [oprypin/mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 
 </td><td>
 
-## [Crystal programming language](https://github.com/crystal-lang/crystal)
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆16.9k</sup>
 
 ### Game development libraries
 
-* [oprypin/crsfml](https://github.com/oprypin/crsfml)
-* [oprypin/crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk)
-* [oprypin/crystal-imgui](https://github.com/oprypin/crystal-imgui)
-* [oprypin/crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml)
+* [oprypin/crsfml](https://github.com/oprypin/crsfml) ☆296
+* [oprypin/crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆34
+* [oprypin/crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆31
+* [oprypin/crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆9
 
 ### Misc
 
-* [oprypin/retour](https://github.com/oprypin/retour)
-* [oprypin/spec-assert](https://github.com/oprypin/spec-assert)
+* [oprypin/retour](https://github.com/oprypin/retour) ☆0
+* [oprypin/spec-assert](https://github.com/oprypin/spec-assert) ☆2
+  
+&nbsp;
 
 </td><td>
 
 ## Gaming
 
-* [oprypin/sixcells](https://github.com/oprypin/sixcells)
-* [oprypin/game-bots](https://github.com/oprypin/game-bots)
+* [oprypin/sixcells](https://github.com/oprypin/sixcells) ☆54
+* [oprypin/game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [oprypin/nightly.link](https://github.com/oprypin/nightly.link)
-* [oprypin/find-latest-tag](https://github.com/oprypin/find-latest-tag)
-* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal)
+* [oprypin/nightly.link](https://github.com/oprypin/nightly.link) ☆182
+* [oprypin/find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆11
+* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆42
 
 ## Python
 
-* [oprypin/pytest-golden](https://github.com/oprypin/pytest-golden)
+* [oprypin/pytest-golden](https://github.com/oprypin/pytest-golden) ☆3
 
 </tr></table>
+
+This list consists of projects that I'm a part of that are still maintained.  
+**\*** The asterisk marks projects where I'm just a co-maintainer, not the main author.
