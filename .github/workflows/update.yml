@@ -14,7 +14,7 @@ jobs:
             const fs = require('fs').promises;
 
             let content = await fs.readFile('README.md', 'utf8');
-            const regex = /(\(https:\/\/github\.com\/([\w\-]+)\/([\w\-]+)\).+☆)[0-9.k]+\b/g;
+            const regex = /(\(https:\/\/github\.com\/([\w\-]+)\/([\w\-\.]+)\).+☆)[0-9.k]+\b/g;
             content = await replaceAsync(content, regex, async (s, prefix, owner, repo) => {
               console.log(s);
               const {data} = await github.rest.repos.get({owner, repo});
