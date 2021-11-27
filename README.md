@@ -18,11 +18,11 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆16.9k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.0k</sup>
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆296
+* [crsfml](https://github.com/oprypin/crsfml) ☆297
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆34
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆32
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆10
@@ -43,7 +43,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆207
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆209
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆11
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆43
 
