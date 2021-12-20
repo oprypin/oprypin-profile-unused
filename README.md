@@ -24,7 +24,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆297
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆34
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆32
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆33
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆10
 
 ### Misc
