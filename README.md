@@ -4,7 +4,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆593
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆596
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆19
 
 ### Plugins
@@ -19,7 +19,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.1k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.2k</sup>
 
 ### Game development libraries
 
@@ -44,7 +44,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆236
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆237
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆12
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆46
 
