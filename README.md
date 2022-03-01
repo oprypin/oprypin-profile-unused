@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆13.6k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆13.7k</sup>
 
 ### API documentation
 
@@ -11,7 +11,7 @@
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆6
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆35
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆18
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆19
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆15
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆5
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
@@ -44,7 +44,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆249
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆251
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆13
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆47
 
