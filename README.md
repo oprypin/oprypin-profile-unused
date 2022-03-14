@@ -19,7 +19,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.3k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.2k</sup>
 
 ### Game development libraries
 
