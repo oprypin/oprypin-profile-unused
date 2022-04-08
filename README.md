@@ -44,9 +44,9 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆272
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆274
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆14
-* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆47
+* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆49
 
 ## Python
 
