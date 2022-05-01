@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.0k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.1k</sup>
 
 ### API documentation
 
@@ -39,7 +39,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆55
+* [sixcells](https://github.com/oprypin/sixcells) ☆56
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
