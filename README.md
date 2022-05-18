@@ -1,25 +1,25 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.1k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.2k</sup>
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆712
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆716
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆20
 
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆7
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆37
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆19
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆21
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆20
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆23
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆7
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆9
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.4k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.5k</sup>
 
 ### Game development libraries
 
