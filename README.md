@@ -4,7 +4,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆732
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆733
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆21
 
 ### Plugins
@@ -44,7 +44,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆314
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆316
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆17
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆50
 
