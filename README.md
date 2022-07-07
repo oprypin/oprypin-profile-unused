@@ -13,7 +13,7 @@
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆38
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆22
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆24
-* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆8
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆7
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆10
 
