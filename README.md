@@ -4,7 +4,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆765
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆766
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆23
 
 ### Plugins
@@ -39,12 +39,12 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆56
+* [sixcells](https://github.com/oprypin/sixcells) ☆57
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆344
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆346
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆19
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆50
 
