@@ -4,7 +4,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆777
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆786
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆23
 
 ### Plugins
@@ -25,7 +25,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆313
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆36
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆44
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆43
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆10
 
 ### Misc
