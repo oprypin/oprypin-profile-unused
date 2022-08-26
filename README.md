@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.7k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆14.8k</sup>
 
 ### API documentation
 
@@ -11,7 +11,7 @@
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆8
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆39
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆27
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆28
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆30
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆9
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
@@ -25,7 +25,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆318
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆36
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆43
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆44
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆11
 
 ### Misc
