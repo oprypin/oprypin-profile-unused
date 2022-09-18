@@ -15,6 +15,7 @@
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆35
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆9
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆79
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆13
 
 </td><td>
