@@ -4,7 +4,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆962
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆965
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆24
 
 ### Plugins
