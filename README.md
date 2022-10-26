@@ -4,18 +4,18 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆982
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆983
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆24
 
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆11
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆41
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆42
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆31
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆37
-* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆9
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆10
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆82
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆83
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆15
 
 </td><td>
@@ -47,7 +47,7 @@
 
 * [nightly.link](https://github.com/oprypin/nightly.link) ☆399
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆23
-* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆51
+* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆52
 
 ## Python
 
