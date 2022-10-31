@@ -4,13 +4,13 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆988
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆996
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆24
 
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆11
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆42
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆43
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆31
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆39
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆10
@@ -24,8 +24,8 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆324
-* [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆37
+* [crsfml](https://github.com/oprypin/crsfml) ☆325
+* [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆38
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆48
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆13
 
