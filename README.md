@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆15.2k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆15.3k</sup>
 
 ### API documentation
 
@@ -26,7 +26,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆325
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆38
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆48
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆50
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆13
 
 ### Misc
