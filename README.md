@@ -15,12 +15,12 @@
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆42
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆10
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆85
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆86
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆15
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆17.9k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆18.0k</sup>
 
 ### Game development libraries
 
@@ -45,13 +45,13 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆409
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆408
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆23
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆52
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆8
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆9
 
 </tr></table>
 
