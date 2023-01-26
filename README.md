@@ -13,9 +13,9 @@
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆49
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆35
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆44
-* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆14
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆15
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆92
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆93
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆16
 
 </td><td>
@@ -26,7 +26,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆327
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆39
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆53
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆54
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆14
 
 ### Misc
