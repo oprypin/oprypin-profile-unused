@@ -5,14 +5,14 @@
 ### API documentation
 
 * **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.1k
-* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆24
+* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆25
 
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆12
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆49
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆35
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆45
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆46
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆15
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆93
