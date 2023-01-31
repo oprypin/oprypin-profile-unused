@@ -10,10 +10,10 @@
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆12
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆49
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆50
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆35
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆46
-* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆15
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆48
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆16
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆93
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆16
@@ -45,13 +45,13 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆445
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆446
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆24
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆53
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆9
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆10
 
 </tr></table>
 
