@@ -24,7 +24,7 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆327
+* [crsfml](https://github.com/oprypin/crsfml) ☆328
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆39
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆54
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆14
@@ -45,7 +45,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆446
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆449
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆24
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆53
 
