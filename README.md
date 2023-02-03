@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆15.7k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆15.8k</sup>
 
 ### API documentation
 
@@ -45,7 +45,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆449
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆451
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆24
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆53
 
