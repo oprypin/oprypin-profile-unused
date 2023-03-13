@@ -10,7 +10,7 @@
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆14
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆54
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆55
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆40
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆49
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆17
