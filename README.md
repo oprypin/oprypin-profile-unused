@@ -20,7 +20,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆18.2k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆18.3k</sup>
 
 ### Game development libraries
 
@@ -45,7 +45,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆464
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆466
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆26
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆56
 
