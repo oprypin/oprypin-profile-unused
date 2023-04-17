@@ -10,9 +10,9 @@
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆15
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆56
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆41
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆52
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆57
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆42
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆53
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆18
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆101
