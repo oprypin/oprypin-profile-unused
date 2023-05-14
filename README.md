@@ -11,7 +11,7 @@
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆16
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆58
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆46
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆47
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆53
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆19
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
@@ -51,7 +51,7 @@
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆11
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆12
 
 </tr></table>
 
