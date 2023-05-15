@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆16.3k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆16.4k</sup>
 
 ### API documentation
 
