@@ -11,7 +11,7 @@
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆58
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆51
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆52
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆57
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆24
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
@@ -24,7 +24,7 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆334
+* [crsfml](https://github.com/oprypin/crsfml) ☆333
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆40
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆59
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆15
