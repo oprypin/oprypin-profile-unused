@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆16.8k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆16.9k</sup>
 
 ### API documentation
 
@@ -11,7 +11,7 @@
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆58
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆52
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆53
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆57
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆24
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
