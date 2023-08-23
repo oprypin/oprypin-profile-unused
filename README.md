@@ -10,13 +10,13 @@
 ### Plugins
 
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆58
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆59
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆53
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆58
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆59
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆24
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆115
-* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆23
+* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆24
 
 </td><td>
 
@@ -45,7 +45,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆527
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆528
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆28
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆63
 
