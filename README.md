@@ -12,7 +12,7 @@
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆62
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆58
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆67
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆68
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆25
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆118
@@ -20,7 +20,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆18.7k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆18.8k</sup>
 
 ### Game development libraries
 
