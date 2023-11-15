@@ -45,13 +45,13 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆559
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆558
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆30
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆64
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆16
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆17
 
 </tr></table>
 
