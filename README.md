@@ -2,13 +2,9 @@
 
 ## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆17.4k</sup>
 
-### API documentation
-
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.4k
-* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆27
-
 ### Plugins
 
+* [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆3
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆64
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆61
@@ -17,6 +13,11 @@
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆125
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆29
+
+### API documentation
+
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.4k
+* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆27
 
 </td><td>
 
