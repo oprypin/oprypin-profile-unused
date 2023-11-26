@@ -11,7 +11,7 @@
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆73
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆29
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆125
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆127
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆29
 
 ### API documentation
@@ -46,7 +46,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆561
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆563
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆30
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆64
 
