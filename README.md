@@ -6,12 +6,12 @@
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆3
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆19
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆65
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆66
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆62
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆74
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆75
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆29
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆130
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆131
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆29
 
 ### API documentation
@@ -46,13 +46,13 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆572
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆574
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆31
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆64
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆18
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆19
 
 </tr></table>
 
