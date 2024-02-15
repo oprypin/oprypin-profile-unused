@@ -16,7 +16,7 @@
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.4k
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.5k
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆27
 
 </td><td>
