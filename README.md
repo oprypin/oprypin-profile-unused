@@ -11,7 +11,7 @@
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆78
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆30
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆143
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆144
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆30
 
 ### API documentation
@@ -41,7 +41,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆65
+* [sixcells](https://github.com/oprypin/sixcells) ☆66
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
