@@ -11,7 +11,7 @@
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆87
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆34
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆153
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆155
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆38
 
 ### API documentation
@@ -27,7 +27,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆344
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆42
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆66
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆67
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆16
 
 ### Misc
