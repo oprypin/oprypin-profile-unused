@@ -8,11 +8,11 @@
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆23
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆72
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆71
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆89
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆90
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆34
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆1
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆157
-* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆39
+* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆40
 
 ### API documentation
 
