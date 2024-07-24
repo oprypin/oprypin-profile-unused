@@ -5,7 +5,7 @@
 ### Plugins
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆12
-* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆26
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆27
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆74
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆72
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆98
@@ -25,7 +25,7 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆348
+* [crsfml](https://github.com/oprypin/crsfml) ☆349
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆43
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆67
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆17
@@ -46,7 +46,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆643
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆644
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆68
 
