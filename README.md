@@ -5,7 +5,7 @@
 ### Plugins
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆12
-* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆28
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆29
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆77
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆73
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆102
@@ -27,7 +27,7 @@
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆349
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆43
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆68
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆69
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆17
 
 ### Misc
