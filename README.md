@@ -21,7 +21,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆19.5k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆19.4k</sup>
 
 ### Game development libraries
 
@@ -41,7 +41,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆68
+* [sixcells](https://github.com/oprypin/sixcells) ☆67
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
