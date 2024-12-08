@@ -41,12 +41,12 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆67
+* [sixcells](https://github.com/oprypin/sixcells) ☆68
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆702
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆703
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆67
 
