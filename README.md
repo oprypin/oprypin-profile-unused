@@ -17,7 +17,7 @@
 ### API documentation
 
 * **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.7k
-* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆28
+* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆29
 
 </td><td>
 
@@ -41,7 +41,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆68
+* [sixcells](https://github.com/oprypin/sixcells) ☆69
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
