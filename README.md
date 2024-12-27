@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆19.5k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆19.6k</sup>
 
 ### Plugins
 
@@ -25,7 +25,7 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆350
+* [crsfml](https://github.com/oprypin/crsfml) ☆351
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆42
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆70
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆18
@@ -46,7 +46,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆711
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆712
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆66
 
