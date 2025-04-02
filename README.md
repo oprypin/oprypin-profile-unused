@@ -7,8 +7,8 @@
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆13
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆33
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆87
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆86
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆120
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆87
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆121
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆44
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆2
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆201
@@ -41,7 +41,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆71
+* [sixcells](https://github.com/oprypin/sixcells) ☆72
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
