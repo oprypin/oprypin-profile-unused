@@ -41,7 +41,7 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆73
+* [sixcells](https://github.com/oprypin/sixcells) ☆75
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
