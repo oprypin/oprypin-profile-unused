@@ -17,7 +17,7 @@
 ### API documentation
 
 * **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆1.9k
-* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆31
+* [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆32
 
 </td><td>
 
@@ -26,7 +26,7 @@
 ### Game development libraries
 
 * [crsfml](https://github.com/oprypin/crsfml) ☆353
-* [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆42
+* [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆43
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆78
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆18
 
@@ -48,7 +48,7 @@
 
 * [nightly.link](https://github.com/oprypin/nightly.link) ☆846
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
-* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆72
+* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
 
 ## Python
 
