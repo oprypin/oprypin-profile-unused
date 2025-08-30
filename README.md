@@ -6,7 +6,7 @@
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆14
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆35
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆94
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆93
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆93
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆127
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆48
