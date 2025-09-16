@@ -52,7 +52,7 @@
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆27
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆28
 
 </tr></table>
 
