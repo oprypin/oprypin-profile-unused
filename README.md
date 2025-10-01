@@ -7,7 +7,7 @@
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆15
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆35
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆92
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆94
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆95
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆128
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆48
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆3
@@ -21,7 +21,7 @@
 
 </td><td>
 
-## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆19.9k</sup>
+## **\***[crystal-lang/crystal](https://github.com/crystal-lang/crystal) <sup>☆20.0k</sup>
 
 ### Game development libraries
 
@@ -46,7 +46,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆859
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆860
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
 
