@@ -5,9 +5,9 @@
 ### Plugins
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆15
-* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆37
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆38
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆93
-* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆97
+* [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆98
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆134
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆49
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
@@ -46,7 +46,7 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆871
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆873
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
 
