@@ -32,7 +32,7 @@
 
 ### Misc
 
-* [retour](https://github.com/oprypin/retour) ☆0
+* [retour](https://github.com/oprypin/retour) ☆1
 * [spec-assert](https://github.com/oprypin/spec-assert) ☆3
   
 &nbsp;
