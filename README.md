@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆21.3k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆21.4k</sup>
 
 ### Plugins
 
@@ -8,7 +8,7 @@
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆38
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆93
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆98
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆133
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆134
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆48
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆235
@@ -41,12 +41,12 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆75
+* [sixcells](https://github.com/oprypin/sixcells) ☆76
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆877
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆878
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
 
