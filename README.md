@@ -5,14 +5,14 @@
 ### Plugins
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆15
-* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆38
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆39
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆93
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆98
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆134
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆48
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆235
-* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆79
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆236
+* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆80
 
 ### API documentation
 
