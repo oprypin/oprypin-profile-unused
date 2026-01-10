@@ -33,7 +33,7 @@
 ### Misc
 
 * [retour](https://github.com/oprypin/retour) ☆1
-* [spec-assert](https://github.com/oprypin/spec-assert) ☆3
+* [spec-assert](https://github.com/oprypin/spec-assert) ☆4
   
 &nbsp;
 
@@ -46,8 +46,8 @@
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆899
-* [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆35
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆901
+* [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆36
 * [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
 
 ## Python
