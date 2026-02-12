@@ -1,6 +1,6 @@
 <table><tr><td>
 
-## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆21.6k</sup>
+## **\***[mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) <sup>☆21.7k</sup>
 
 ### Plugins
 
@@ -12,7 +12,7 @@
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆47
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆241
-* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆81
+* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆82
 
 ### API documentation
 
