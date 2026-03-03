@@ -5,7 +5,7 @@
 ### Plugins
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆16
-* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆42
+* [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆43
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆95
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆103
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆140
