@@ -12,7 +12,7 @@
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆47
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
 * **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆243
-* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆83
+* **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆84
 
 ### API documentation
 
@@ -52,7 +52,7 @@
 
 ## Python
 
-* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆29
+* [pytest-golden](https://github.com/oprypin/pytest-golden) ☆30
 
 </tr></table>
 
