@@ -6,7 +6,7 @@
 
 * [hatch-mkdocs](https://github.com/mkdocs/hatch-mkdocs) ☆17
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆45
-* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆95
+* [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆96
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆103
 * [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆143
 * [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆47
@@ -25,7 +25,7 @@
 
 ### Game development libraries
 
-* [crsfml](https://github.com/oprypin/crsfml) ☆355
+* [crsfml](https://github.com/oprypin/crsfml) ☆356
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ☆45
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui) ☆77
 * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ☆18
@@ -41,14 +41,14 @@
 
 ## Gaming
 
-* [sixcells](https://github.com/oprypin/sixcells) ☆79
+* [sixcells](https://github.com/oprypin/sixcells) ☆80
 * [game-bots](https://github.com/oprypin/game-bots) ☆5
 
 ## GitHub
 
-* [nightly.link](https://github.com/oprypin/nightly.link) ☆978
+* [nightly.link](https://github.com/oprypin/nightly.link) ☆979
 * [find-latest-tag](https://github.com/oprypin/find-latest-tag) ☆36
-* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆73
+* [crystal-lang/install-crystal](https://github.com/crystal-lang/install-crystal) ☆74
 
 ## Python
 
