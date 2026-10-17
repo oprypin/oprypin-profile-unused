@@ -8,15 +8,15 @@
 * [markdown-callouts](https://github.com/oprypin/markdown-callouts) ☆45
 * [mkdocs-section-index](https://github.com/oprypin/mkdocs-section-index) ☆97
 * [mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) ☆103
-* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆144
-* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆47
+* [mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) ☆143
+* [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir) ☆46
 * [mkdocs-code-validator](https://github.com/oprypin/mkdocs-code-validator) ☆4
-* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆245
+* **\***[mkdocs-redirects](https://github.com/mkdocs/mkdocs-redirects) ☆244
 * **\***[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) ☆84
 
 ### API documentation
 
-* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆2.1k
+* **\***[mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) ☆2.0k
 * [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) ☆31
 
 </td><td>
